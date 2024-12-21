@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java , python , c# , machine learning , data science , artificial intelligence
 - 💞️ I’m looking to collaborate on information exchange
-- 📫 How to reach me You can reach me at bahricansekmen6@gamil.com.
+- 📫 How to reach me You can reach me at bahricansekmen6@gmail.com.
 
 
 <!---
